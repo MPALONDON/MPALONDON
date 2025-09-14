@@ -20,11 +20,11 @@ Here are a few of my highlighted projects (more on my repos!):
   Flask app that lets users upload bookshelf photos → AI detects books & generates reading recommendations via OpenAI API.  
   *Flask · OpenAI API · SQLite · Bootstrap 5*
 
-- **[Flask Blog](https://github.com/MPALONDON/flask-blog)**  
+- **[Flask Blog](https://github.com/MPALONDON/Flask-SQLAlchemy-Blog)**  
   Full-stack blogging platform with user auth, admin-only post management, and rich text editing.  
   *Flask · SQLAlchemy · SQLite · Flask-WTF*
 
-- **[Discord Bot](https://github.com/MPALONDON/discord-bot)**  
+- **[Discord Bot](https://github.com/MPALONDON/discordbot)**  
   A feature-rich bot with moderation, music playback, polls, and role management.  
   *Python · discord.py · SQLAlchemy · FFmpeg*
 

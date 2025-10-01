@@ -16,6 +16,10 @@
 ## 🚀 Projects
 Here are a few of my highlighted projects (more on my repos!):
 
+- **[Amazon Product Scraper & Tracker](https://github.com/MPALONDON/Product_Tracker)**  
+  Flask web app to scrape Amazon products, track price changes, mark favourites, and visualize price history with interactive charts.
+  *Flask · SQLAlchemy · SQLite · Pandas · Matplotlib · Bootstrap 5 · Bright Data API*
+
 - **[Bookshelf Scanner](https://github.com/MPALONDON/Shelfscanner)**  
   Flask app that lets users upload bookshelf photos → AI detects books & generates reading recommendations via OpenAI API.  
   *Flask · OpenAI API · SQLite · Bootstrap 5*

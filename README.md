@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Bello-Pluto Salvatore
 
-💻 **Python Developer** with hands-on experience building **Flask web applications, automation scripts, and cloud projects**.  
-🌱 Self-taught, passionate about continuous learning, and eager to contribute to impactful software solutions.  
+💻 **Python Developer** with experience building **FASTAPI applications, automation scripts, and Data analysis**.   
 📍 Based in London, UK.  
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages & Tools:** Python, Flask, SQLAlchemy, Git, REST APIs, HTML/CSS, Bash  
+- **Languages & Tools:** Python, C++, FastAPI, Flask, SQLAlchemy, Git, REST APIs, HTML/CSS, Bash  
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM, DynamoDB), Docker, CI/CD (GitHub Actions)  
 - **Data & Automation:** Web Scraping (BeautifulSoup, Selenium), Data Analysis, Automation Scripts  
 
@@ -20,21 +19,18 @@ Here are a few of my highlighted projects (more on my repos!):
   Flask web app to scrape Amazon products, track price changes, mark favourites, and visualize price history with interactive charts.
   *Flask · SQLAlchemy · SQLite · Pandas · Matplotlib · Bootstrap 5 · Bright Data API*
 
-- **[Bookshelf Scanner](https://github.com/MPALONDON/Shelfscanner)**  
-  Flask app that lets users upload bookshelf photos → AI detects books & generates reading recommendations via OpenAI API.  
-  *Flask · OpenAI API · SQLite · Bootstrap 5*
+- **[Black-Scholes P/L & Heatmap Explorer](https://github.com/MPALONDON/BlackScholes_Price_Streamlit)**  
+  Streamlit app for calculating Black-Scholes option prices, simulating P/L based on purchase prices, visualizing interactive heatmaps, and saving results for future reference.  
+  *Streamlit · Pandas · NumPy · SciPy · Matplotlib · Seaborn · SQLAlchemy*
 
-- **[Flask Blog](https://github.com/MPALONDON/Flask-SQLAlchemy-Blog)**  
-  Full-stack blogging platform with user auth, admin-only post management, and rich text editing.  
-  *Flask · SQLAlchemy · SQLite · Flask-WTF*
+- **[Python GUI Chat Application](https://github.com/MPALONDON/GUI_Network)**  
+  Client-server chat app with a Tkinter GUI, supporting multiple clients, broadcast/private messaging, and administrative controls for managing connected users.  
+  *TKinter · Socket · Threading · JSON*
 
 - **[Discord Bot](https://github.com/MPALONDON/discordbot)**  
   A feature-rich bot with moderation, music playback, polls, and role management.  
   *Python · discord.py · SQLAlchemy · FFmpeg*
 
-- **[Book Automation with BeautifulSoup & Selenium](https://github.com/MPALONDON/BeautifulSoup-Selenium-Automation)**  
-  Scrapes book data and auto-submits into Google Forms, with analytics via Matplotlib.  
-  *Python · Selenium · BeautifulSoup · Matplotlib*
 
 ---
 

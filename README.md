@@ -1,14 +1,14 @@
 # Hi, I'm Bello-Pluto Salvatore
 
-**Software Developer** with experience building **FULLSTACK applications, automation scripts, and Data analysis**.   
+**Software Developer** with experience building **FULLSTACK, Network and multithreading applications**.   
 Based in London, UK.  
 
 ---
 
 ## Tech Stack
 - **Languages:** Python, C++, JavaScript
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM, DynamoDB), Docker, CI/CD (GitHub Actions)  
-- **Data & Automation:** Web Scraping (BeautifulSoup, Selenium), Data Analysis, Automation Scripts  
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM, DynamoDB), Docker, CI/CD (GitHub Actions) , Databricks
+- **Data & Automation:** Web Scraping (BeautifulSoup, Selenium), Data Analysis, Data Science, Automation.
 
 ---
 

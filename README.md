@@ -1,6 +1,6 @@
 # Hi, I'm Bello-Pluto Salvatore
 
-**Software Developer** with experience building **Fullstack, Network and multithreading applications**.   
+**Software Developer** with experience building **Fullstack, Network and Multithreading applications**.   
 Based in London, UK.  
 
 ---

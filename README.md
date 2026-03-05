@@ -22,7 +22,9 @@ Here are a few of my highlighted projects (more on my repository):
   Tech Stack:
   *React · Vite · FastAPI · JWT Authentication · SQLAlchemy · ImageKit · REST API*
 
-  ```mermaid
+### Architecture
+
+```mermaid
 flowchart TD
 
 A[React Frontend] --> B[FastAPI Backend]
@@ -36,6 +38,7 @@ E --> F[ImageKit Storage]
 F --> G[CDN Delivery]
 
 G --> A
+```
   
   
 - **[Black-Scholes P/L & Heatmap Explorer](https://github.com/MPALONDON/BlackScholes_Price_Streamlit)**  

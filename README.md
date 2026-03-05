@@ -39,7 +39,14 @@ F --> G[CDN Delivery]
 
 G --> A
 ```
-  
+
+- **[Coding Knowledge Tester](https://github.com/MPALONDON/CodeKnowledgeTester)**  
+  Fullstack assessment platform built with FastAPI and React, featuring secure authentication and role-based access.  
+  Provides REST APIs for question generation, scoring, and history tracking, backed by SQLAlchemy.  
+  Integrated AI-driven question generation and automated feedback using the OpenAI API.
+
+  Tech Stack:
+  *React · FastAPI · SQLAlchemy · OpenAI API · Clerk · REST API*
   
 - **[Black-Scholes P/L & Heatmap Explorer](https://github.com/MPALONDON/BlackScholes_Price_Streamlit)**  
   Streamlit app for calculating Black-Scholes option prices, simulating P/L based on purchase prices, visualizing interactive heatmaps, and saving results for future reference.  
